@@ -1,0 +1,30 @@
+.show-products {
+  --item: 4;
+  --spacing: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: calc(-1 * var(--spacing));
+  margin-top: 20px;
+}
+
+.cart-product {
+  width: calc(calc(100% / var(--item)) - var(--spacing));
+  display: block;
+  margin-right: var(--spacing);
+}
+
+.pImage {
+  width: 100%;
+  flex-shrink: 0;
+  height: 500px;
+  perspective: 1000px;
+  font-weight: 500;
+}
+
+.pName,
+.pPrice,
+.pSize {
+  padding: 5px 10px;
+  font-weight: bold;
+  font-size: 18px;
+}

@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "664ad01ce0731b946afba559"
+  },
+  "order_products": [
+    {
+      "quantity": 2,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456d7"
+      },
+      "product_name": "Áo khoác sơ mi cotton",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S20/67055981_07_B.jpg?imwidth=721&imdensity=1&ts=1703669669153",
+      "product_type": "Male",
+      "product_price": 800000,
+      "product_size": "L"
+    },
+    {
+      "quantity": 2,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456eb"
+      },
+      "product_name": "Quần dài nam khaki",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S20/67036725_08_B.jpg?imwidth=721&imdensity=1&ts=1706103189941",
+      "product_type": "Male",
+      "product_price": 900000,
+      "product_size": "M"
+    }
+  ],
+  "order_checkout": {
+    "totalPrice": 3400000,
+    "totalCheckout": 3400000
+  },
+  "order_shipping": {
+    "phone": "0121212312",
+    "address": "113, Phạm Ngũ Lão",
+    "payment": "online",
+    "fullName": "Phạm Văn Đồng C"
+  },
+  "order_payment": "online",
+  "user": {
+    "$oid": "664abff798af6b4c4141cb42"
+  },
+  "order_status": "pending",
+  "createdAt": {
+    "$date": "2024-05-20T04:22:52.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T04:22:52.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ae04b212950307ac509dd"
+  },
+  "order_products": [
+    {
+      "quantity": 2,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456be"
+      },
+      "product_name": "Váy dài xẻ bên",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S/67008654_70_B.jpg?imwidth=640&imdensity=1&ts=1712590949294",
+      "product_type": "FeMale",
+      "product_price": 1000000,
+      "product_size": "L"
+    },
+    {
+      "quantity": 3,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456c3"
+      },
+      "product_name": "Váy sọc nơ",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S/67028642_02_B.jpg?imwidth=480&imdensity=1&ts=1708961616537",
+      "product_type": "FeMale",
+      "product_price": 700000,
+      "product_size": "XS"
+    }
+  ],
+  "order_checkout": {
+    "totalPrice": 4100000,
+    "totalCheckout": 4100000
+  },
+  "order_shipping": {
+    "fullName": "Phạm Văn Đồng T",
+    "phone": "0121212311",
+    "address": "113, Phạm Ngũ Lão",
+    "payment": "online"
+  },
+  "order_payment": "online",
+  "user": {
+    "$oid": "664abff798af6b4c4141cb42"
+  },
+  "order_status": "pending",
+  "createdAt": {
+    "$date": "2024-05-20T05:31:55.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T05:31:55.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ae1d0af6dbf5119d9b4f9"
+  },
+  "order_products": [
+    {
+      "quantity": 3,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456bf"
+      },
+      "product_name": "Váy in Floral",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S/67037131_70_B.jpg?imwidth=640&imdensity=1&ts=1709903645822",
+      "product_type": "FeMale",
+      "product_price": 800000,
+      "product_size": "L"
+    },
+    {
+      "quantity": 5,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456cf"
+      },
+      "product_name": "Áo thun nữ trơn",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S/67010466_94_B.jpg?imwidth=640&imdensity=1&ts=1701419622999",
+      "product_type": "FeMale",
+      "product_price": 200000,
+      "product_size": "M"
+    }
+  ],
+  "order_checkout": {
+    "totalPrice": 3400000,
+    "totalCheckout": 3400000
+  },
+  "order_shipping": {
+    "fullName": "Phạm Văn Đồng C",
+    "phone": "0121212312",
+    "address": "113, Phạm Ngũ Lão",
+    "payment": "online"
+  },
+  "order_payment": "online",
+  "user": {
+    "$oid": "664abff798af6b4c4141cb42"
+  },
+  "order_status": "pending",
+  "createdAt": {
+    "$date": "2024-05-20T05:38:24.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T05:38:24.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ae1f3af6dbf5119d9b50a"
+  },
+  "order_products": [
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "6648add755c2b89eb56456d7"
+      },
+      "product_name": "Áo khoác sơ mi cotton",
+      "product_thumb": "https://shop.mango.com/assets/rcs/pics/static/T6/fotos/S20/67055981_07_B.jpg?imwidth=721&imdensity=1&ts=1703669669153",
+      "product_type": "Male",
+      "product_price": 800000,
+      "product_size": "L"
+    }
+  ],
+  "order_checkout": {
+    "totalPrice": 800000,
+    "totalCheckout": 800000
+  },
+  "order_shipping": {
+    "fullName": "Phạm Văn Đồng C",
+    "phone": "0121212312",
+    "address": "113, Phạm Ngũ Lão",
+    "payment": "cod"
+  },
+  "order_payment": "cod",
+  "user": {
+    "$oid": "664abff798af6b4c4141cb42"
+  },
+  "order_status": "pending",
+  "createdAt": {
+    "$date": "2024-05-20T05:38:59.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T05:38:59.938Z"
+  },
+  "__v": 0
+}]

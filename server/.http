@@ -1,0 +1,19 @@
+@url = http://localhost:8888/api/v1
+
+### Register
+POST {{url}}/user/register
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin"
+}
+
+### Login
+POST {{url}}/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin"
+}

@@ -1,0 +1,160 @@
+.checkout-main {
+  margin-top: 100px;
+  padding: 20px 100px;
+}
+
+.checkout-title {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.checkout-sub-title {
+  font-size: 16px;
+  margin-bottom: 8px;
+  margin-top: 30px;
+  font-style: italic;
+  color: rgb(165, 78, 78);
+}
+
+.mt-2 {
+  margin-top: 16px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  margin: 0 -16px;
+}
+
+.col-25 {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+}
+
+.col-30 {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+}
+
+.col-50 {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+}
+
+.col-55 {
+  -ms-flex: 55%; /* IE10 */
+  flex: 55%;
+}
+
+.col-45 {
+  -ms-flex: 45%; /* IE10 */
+  flex: 45%;
+}
+
+.col-70 {
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+}
+
+.col-75 {
+  -ms-flex: 75%; /* IE10 */
+  flex: 75%;
+}
+
+.col-25,
+.col-30,
+.col-50,
+.col-55,
+.col-45,
+.col-70,
+.col-75 {
+  padding: 0 16px;
+}
+
+.container {
+  background-color: #f2f2f2;
+  padding: 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.icon-container {
+  margin-bottom: 20px;
+  padding: 7px 0;
+  font-size: 24px;
+}
+
+.btn {
+  background-color: #04aa6d;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+a.checkout-item-link {
+  color: #2196f3;
+}
+
+hr {
+  border: 1px solid lightgrey;
+  margin-bottom: 20px;
+}
+
+.count-item {
+  float: right;
+}
+
+span.price {
+  margin-top: 5px;
+  color: grey;
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.total-price b {
+  float: right;
+  font-weight: bold;
+  color: rgb(216, 25, 25);
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
+@media (max-width: 800px) {
+  .row {
+    flex-direction: column-reverse;
+  }
+  .col-25 {
+    margin-bottom: 20px;
+  }
+}
+
+.checkout-product p {
+  margin-bottom: 16px;
+}

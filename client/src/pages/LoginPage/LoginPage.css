@@ -1,0 +1,95 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+.Login__Cap--Wrapper {
+  margin-top: 99px;
+}
+.Login__Cap--Block {
+  display: flex;
+  flex-direction: row;
+  margin-left: 500px;
+  padding-top: 50px;
+}
+.Login__Cap--SignIn {
+  margin-left: 70px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+.Login__Cap--SignUp {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  margin-left: 135px;
+}
+
+.Login__Block h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 24px;
+  margin-left: 550px;
+}
+.Login__Input {
+  border: 1px solid black;
+  height: 45px;
+  width: 300px;
+  margin-left: 560px;
+  margin-top: 22px;
+  position: relative;
+}
+.Login__Input input {
+  padding-left: 15px;
+  border: none;
+  padding-top: 10px;
+  border-color: grey;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 18px;
+  width: 100%;
+}
+.Login__Icon {
+  position: absolute;
+  top: 25%;
+  left: 90%;
+}
+
+.Login__Button {
+  height: 45px;
+  width: 300px;
+  margin-left: 560px;
+  margin-top: 22px;
+  background-color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  color: white;
+}

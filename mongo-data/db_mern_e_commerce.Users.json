@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6648bbabd8e660bc252e47dc"
+  },
+  "user_username": "admin",
+  "user_password": "$2b$10$adled78tV7AjdIGL0XvP3uiBb027HsAowBUrch.1D/H237QZi.65m",
+  "user_fullName": "Admin",
+  "user_phone": "0121212312",
+  "user_address": "123A",
+  "user_role": "admin",
+  "createdAt": {
+    "$date": "2024-05-18T14:31:07.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T01:43:02.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664a984b3ae6a7e39368d7af"
+  },
+  "user_username": "test",
+  "user_password": "$2b$10$jVPYRjlHcsc/Z7B11gYpve0NsCv.8C2UVL8SDB0OmdX/IB7T2iIey",
+  "user_fullName": "Trần Văn Test 2",
+  "user_phone": "0121212313",
+  "user_address": "114, Phạm Ngũ Lão",
+  "user_role": "user",
+  "createdAt": {
+    "$date": "2024-05-20T00:24:43.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T03:08:09.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abeae98af6b4c4141cae2"
+  },
+  "user_username": "dong",
+  "user_password": "$2b$10$8yUPxhYEiHSp/s/PFhGGNuRw.Ub1YbCgX/ASCZ8QlKnND.J2PW6di",
+  "user_fullName": "Phạm Văn Đồng A",
+  "user_phone": null,
+  "user_address": null,
+  "user_role": "user",
+  "createdAt": {
+    "$date": "2024-05-20T03:08:30.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T03:08:30.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abf5b98af6b4c4141cb10"
+  },
+  "user_username": "quan",
+  "user_password": "$2b$10$ytFigCOrOemPr4qUD7jJSOHsI3QDwB8vwINM6v3CV99JL3LGMHGbe",
+  "user_fullName": "Quân",
+  "user_phone": null,
+  "user_address": null,
+  "user_role": "user",
+  "createdAt": {
+    "$date": "2024-05-20T03:11:23.732Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T03:11:23.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abfcf98af6b4c4141cb37"
+  },
+  "user_username": "an",
+  "user_password": "$2b$10$.ZamWfTCEgeaiGN9yiFg0.NmXKK0L6i804LI2tdjCZI8QGTiS8qzW",
+  "user_fullName": "An",
+  "user_phone": null,
+  "user_address": null,
+  "user_role": "user",
+  "createdAt": {
+    "$date": "2024-05-20T03:13:19.496Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T03:13:19.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abff798af6b4c4141cb42"
+  },
+  "user_username": "dongb",
+  "user_password": "$2b$10$otHJmGpFaIdrErRLUQYHmum4ylH/2y8xItHRSyALO0g/sxyOk4l4i",
+  "user_fullName": "Phạm Văn Đồng C",
+  "user_phone": "0121212312",
+  "user_address": "113, Phạm Ngũ Lão",
+  "user_role": "user",
+  "createdAt": {
+    "$date": "2024-05-20T03:13:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T03:15:26.047Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,99 @@
+.Detail__Display
+{   
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: 100%;
+    margin-top: 99px;
+    padding-bottom: 5px;
+}
+.Detail__Display--Left
+{
+    height: auto;
+    width: 65%;
+    display: grid;
+    grid-template-columns: 450px 450px;
+    grid-template-rows: 600px 600px;
+    grid-gap: 2px;
+    grid-row-gap: 31px;
+    padding-bottom: 5px;
+}
+.Detail__Display--Right
+{   
+    height: auto;
+    width: 35%;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+.Detail__Display--Name
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.Detail__Display--Size
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.Detail__Display--Price 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.Detail__Display--Line
+{
+    width: 450px;
+    margin-top: 20px;
+    height: 1px;
+    color:antiquewhite;
+    
+}
+.Detail__Display--Description 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 20px;
+    line-height: 30px;
+    text-align: left;
+    margin-right: 25px;
+}
+.AddToCart__Button
+{
+    margin-top: 20px;
+    height: 60px;
+    width:210px;
+    background-color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:white;
+}
+.AddToCart__Button:hover
+{
+  opacity: 70%;
+}
+
+.Buy__Button
+{
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 60px;
+    width:210px;
+    background-color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:white;
+}
+
+.Buy__Button:hover
+{
+  opacity: 70%;
+}
+

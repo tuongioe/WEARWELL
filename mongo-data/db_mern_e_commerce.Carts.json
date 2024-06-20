@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "66495db91719fd824f50aa53"
+  },
+  "cart_products": [
+    {
+      "product_id": "6648add755c2b89eb56456d6",
+      "quantity": 4
+    },
+    {
+      "product_id": "6648add755c2b89eb56456be",
+      "quantity": 2
+    },
+    {
+      "product_id": "6648add755c2b89eb56456d9",
+      "quantity": 1
+    },
+    {
+      "product_id": "6648add755c2b89eb56456da",
+      "quantity": 1
+    }
+  ],
+  "cart_count_product": 4,
+  "user": {
+    "$oid": "6648bbabd8e660bc252e47dc"
+  },
+  "createdOn": {
+    "$date": "2024-05-19T02:02:33.498Z"
+  },
+  "modifiedOn": {
+    "$date": "2024-05-19T02:39:38.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664a9a80ff7765d449a76816"
+  },
+  "cart_products": [
+    {
+      "product_id": "6648add755c2b89eb56456bf",
+      "quantity": 1
+    },
+    {
+      "product_id": "6648add755c2b89eb56456d6",
+      "quantity": 2
+    }
+  ],
+  "cart_count_product": 2,
+  "user": {
+    "$oid": "664a984b3ae6a7e39368d7af"
+  },
+  "createdOn": {
+    "$date": "2024-05-20T00:34:08.833Z"
+  },
+  "modifiedOn": {
+    "$date": "2024-05-20T03:08:54.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abf4b98af6b4c4141cb02"
+  },
+  "cart_products": [
+    {
+      "product_id": "6648add755c2b89eb56456bf",
+      "quantity": 2
+    }
+  ],
+  "cart_count_product": 1,
+  "user": {
+    "$oid": "664abeae98af6b4c4141cae2"
+  },
+  "createdOn": {
+    "$date": "2024-05-20T03:11:07.562Z"
+  },
+  "modifiedOn": {
+    "$date": "2024-05-20T03:11:08.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abfc398af6b4c4141cb29"
+  },
+  "cart_products": [
+    {
+      "product_id": "6648add755c2b89eb56456d8",
+      "quantity": 2
+    }
+  ],
+  "cart_count_product": 1,
+  "user": {
+    "$oid": "664abf5b98af6b4c4141cb10"
+  },
+  "createdOn": {
+    "$date": "2024-05-20T03:13:07.396Z"
+  },
+  "modifiedOn": {
+    "$date": "2024-05-20T03:13:07.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664abfff98af6b4c4141cb4b"
+  },
+  "cart_products": [],
+  "cart_count_product": 0,
+  "user": {
+    "$oid": "664abff798af6b4c4141cb42"
+  },
+  "createdOn": {
+    "$date": "2024-05-20T03:14:07.004Z"
+  },
+  "modifiedOn": {
+    "$date": "2024-05-20T05:38:59.947Z"
+  },
+  "__v": 0
+}]

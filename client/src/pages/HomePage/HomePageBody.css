@@ -1,0 +1,211 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.HomePage__Body--PreviewItem
+{
+    display: block;
+    height: 400px;
+    width: 100%;
+    margin-top: 40px;
+}
+.HomePage__Body--PreviewItem img
+{
+    width: 100%;
+    height: 650px;
+    object-fit: cover;
+    padding-top: 0px;
+}
+.HomePage__Body
+{
+    height: 1800px;
+    width: 100%;
+}
+.HomePage__Body--Item
+{
+  height: 800px;
+}
+/* Men */
+.MenItem__Jacket--Text
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  position:absolute;
+  color: white;
+  margin-top: 400px;
+  margin-left: 50px;
+}
+.MenItem__TShirt--Text
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  position:absolute;
+  color: white;
+  margin-top: 400px;
+  margin-left: 500px;
+}
+
+.Men__Item
+{
+  display: flex;
+  flex-direction: column ;
+  height: 500px;
+  width: 600px;
+  padding-top: 0px;
+}
+.Men__Item--Button
+{
+  height: 150px;
+  width: 570px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  margin-left: 5px;
+  /*font-style: italic;
+  font-weight: bolder;*/
+  text-shadow: 0px 6px 6px grey;
+  background-color: aliceblue;
+}
+.Men__Item--Image
+{
+    width: 600px;
+    height: 350px;
+    object-fit: cover;
+    padding-left: 5px;
+    margin-top: 5px;
+}
+
+.HomePage__Body--MenItem
+{
+    display: flex;
+    flex-direction: row;
+    height: 350px;
+}
+.HomePage__Body--MenItem :hover
+{
+    filter:brightness(90%);
+}
+.HomePage__MenItem--Image
+{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    padding-left: 5px;
+}
+
+/* Women */
+.HomePage__Body--WomenItem
+{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    margin-top: 155px;
+    padding-left: 5px;
+}
+.HomePage__Body--WomenItem :hover{
+    filter:brightness(70%);
+}
+/*.HomePage__Body--WomenItem img
+{
+    width: 718px;
+    height: 600px;
+    object-fit: cover;
+}*/
+
+.Women__Item
+{
+  display: flex;
+  flex-direction: column ;
+  height: 500px;
+  width: 600px;
+  padding-top: 0px;
+}
+.Women__Item--Button
+{
+  height: 150px;
+  width: 595px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  /*font-style: italic;
+  font-weight: bolder;*/
+  text-shadow: 0px 6px 6px grey;
+  background-color: aliceblue;
+  padding-right: 5px;
+}
+.Women__Item--Image
+{
+    width: 600px;
+    height: 350px;
+    object-fit: cover;
+    margin-top: 5px;
+}
+.WomenItem__Dress--Text
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    color: white;
+    margin-top: 400px;
+    margin-left: 650px;
+}
+.WomenItem__Set--Text
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    color: white;
+    margin-top: 400px;
+    margin-left: 1075px;
+}
+
+
+.HomePage__WomenItem--Image
+{
+    width: 650px;
+    height: 500px;
+    object-fit: cover;
+    padding-left: 5px;
+}
+
+.HomePage__Body--Caption
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  height: 100px;
+  width: 1446px;
+  text-align: center;
+  margin-top: 290px;
+  padding-top: 5px;
+  /*font-weight: bolder;*/
+}

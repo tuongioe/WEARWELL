@@ -1,0 +1,114 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+img,
+picture,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+input,
+select,
+textarea {
+  background-color: transparent;
+  outline: none;
+}
+button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+}
+body {
+  min-height: 100vh;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+}
+.Product__Image {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    perspective: 1000px;
+    transition: transform 1s;
+  }
+  
+  .Product__Image:hover img {
+    transform: rotateY(180deg);
+  }
+  
+  .Product__Image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 1s;
+  }
+  
+  .Product__Image img:hover {
+    transform: rotateY(0deg);
+  }
+
+  .Product__Display
+  {
+    display: grid;
+    grid-template-columns: repeat(4,360px);
+    grid-template-rows: repeat(6,500px) ;
+    column-gap: 1px;
+    row-gap: 120px;
+    margin-top: 15px;
+    margin-left: 10px;
+    height: 3700px;
+  }
+  
+  .FemaleProduct__Input
+  {
+    height: 85px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+  .FemaleProduct__Input input
+  {
+    border: none;
+    width: 250px;
+    height: 80px;
+    padding-left: 40px;
+    padding-top: 18px;
+  }
+  .FemaleProduct__Input button
+  {
+    height: 63px;
+    width: 200px;
+    background-color: black;
+    color: white;
+  }
+  .FemaleProduct__Input button:hover
+  {
+    opacity:70%;
+  }
+
+  .MarginLeft
+  {
+    margin-left: 375px;
+  }
+
+  .FemaleProduct__Preview img
+  {
+    width: 100%;
+  }
+
+  .FemaleProduct__Item
+  {
+    height: auto;
+    width: auto;
+  }
+
+  
