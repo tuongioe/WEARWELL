@@ -97,12 +97,12 @@ Ensure you have the following installed before proceeding:
 ## Preview
 <table>
   <tr>
-    <td><img src="https://drive.google.com/file/d/1p1-x4PZWhKMFS64iQar4aznpyhSCFmJx/view?usp=sharing" alt="mockup" /></td>
-    <td><img src="https://github.com/ntritin62/SaigonGearStore-Client/assets/104788686/59ffcd6a-38d0-453b-848f-67aaf0293b96" alt="mockups" /></td>
+    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2019.56.25.png?raw=true" alt="mockup" /></td>
+    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2020.00.59.png?raw=true" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ntritin62/SaigonGearStore-Client/assets/104788686/5214b8b1-ca17-47df-88a5-6f2870ade236" alt="mockup" /></td>
-    <td><img src="https://github.com/ntritin62/SaigonGearStore-Client/assets/104788686/456e1dba-a5cc-495e-af9f-28449a4d232b" alt="mockups" /></td>
+    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2020.01.46.png?raw=true" alt="mockup" /></td>
+    <td><img src="https://github.com/tuongioe/WEARWELL/blob/main/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202024-08-28%20lu%CC%81c%2020.02.34.png?raw=true" alt="mockups" /></td>
   </tr>
 </table>
 
